@@ -1,2 +1,2 @@
-# homebrew-tap
-Homebrew formulas for VirtusLab software
+# homebrew-cloud
+Homebrew formulas for VirtusLab cloud related software
