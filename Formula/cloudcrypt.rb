@@ -2,7 +2,7 @@ class Cloudcrypt < Formula
   desc "Universal cryptographic tool with AWS KMS, GCP KMS and Azure Key Vault support"
   homepage "https://github.com/VirtusLab/crypt"
   url "https://github.com/VirtusLab/crypt/archive/v0.1.1.tar.gz"
-  sha256 "8427002019acb8b04a8481fb6a02b7259ad18319cf1e4d3b33a2b457245a6b63"
+  sha256 "6e70113bc3b041f01cd667f09eea07c3f85e68077ec0ccf9510de35de3bfb1dd"
 
   depends_on "go" => :build
   depends_on "dep" => :build
